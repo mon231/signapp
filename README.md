@@ -25,4 +25,3 @@ The project uses these tools (can be fetched using `signapp_fetch_tools` after `
     - adb (default at SDK\platform_tools, only required if `-i` flag is used)
     - zipalign (default at SDK\build_tools)
     - apksigner (default at SDK\build_tools)
-- apktool [installation manual](https://ibotpeaches.github.io/Apktool/install/)
