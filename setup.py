@@ -9,7 +9,7 @@ README_PATH = CURRENT_FOLDER / 'README.md'
 def main():
     setuptools.setup(
         name = "signapp",
-        version = "1.0.0",
+        version = "1.0.1",
         author = "Ariel Tubul",
         description = "Apk signer script",
         packages = setuptools.find_packages(),
